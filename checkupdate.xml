@@ -4,7 +4,7 @@
     <title>Production</title>
     <item>
         <title>Version 1.0.3</title>
-        <description>Add material manual sn kosong sudah bisa di add lebih dari 1, Info Update apka automatis tampil di apk.
+        <description>Menu riwayat sudah di bagi dua menjadi RIWAYAT ABSENSI dan RIWAYAT WO. untuk list RIWAYAT WO bisa di lihat di menu riwayat WO. untuk total MTD Dashboard sedang dalam tahapan pengem bangan. terimakasih.
         </description>
         <pubDate>Senin, 11 September 2023 10:20:13 +0000</pubDate>
         <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="1.0.3" />
