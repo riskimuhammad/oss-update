@@ -23,7 +23,7 @@
             sparkle:edSignature="..." />
             
             <enclosure url="http://localhost:1337/3.0_from_1.0.patch"
-            sparkle:version="1.0.3"
+            sparkle:version="1.0.0"
             sparkle:deltaFrom="1.0.2"
             length="1485"
             type="application/octet-stream"
