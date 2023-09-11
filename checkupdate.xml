@@ -3,17 +3,17 @@
   <channel>
     <title>Production</title>
     <item>
-        <title>Version 1.0.3</title>
+        <title>Version 1.0.0</title>
         <description>Add material manual sn kosong sudah bisa di add lebih dari 1, Info Update apka automatis tampil di apk.
         </description>
         <pubDate>Senin, 11 September 2023 10:20:13 +0000</pubDate>
-        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="1.0.3" />
+        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="1.0.0" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
     <!-- The best chosen release -->
     <item>
-        <title>Version 1.0.3</title>
-        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="1.0.3" sparkle:os="android" />
+        <title>Version 1.0.0</title>
+        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="1.0.0" sparkle:os="android" />
         <sparkle:deltas>
             <enclosure url="http://localhost:1337/3.0_from_2.0.patch"
             sparkle:version="1.0.0"
@@ -32,16 +32,16 @@
     </item>
     <!-- A release testing minimumSystemVersion -->
     <item>
-        <title>Version 1.0.3</title>
+        <title>Version 1.0.0</title>
         <pubDate>Senin, 11 September 2023 10:20:13 +0000</pubDate>
-        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="1.0.3" sparkle:os="iOS" />
-        <sparkle:minimumSystemVersion>1.0.3</sparkle:minimumSystemVersion>
+        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="1.0.0" sparkle:os="iOS" />
+        <sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
     </item>
     <!-- A release testing maximumSystemVersion -->
     <item>
-        <title>Version 1.0.3</title>
-        <sparkle:version>1.0.3</sparkle:version>
-        <sparkle:maximumSystemVersion>1.0.3</sparkle:maximumSystemVersion>
+        <title>Version 1.0.0</title>
+        <sparkle:version>1.0.0</sparkle:version>
+        <sparkle:maximumSystemVersion>1.0.0</sparkle:maximumSystemVersion>
     </item>
   </channel>
 </rss>
