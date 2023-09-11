@@ -16,7 +16,7 @@
         <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="1.0.3" sparkle:os="android" />
         <sparkle:deltas>
             <enclosure url="http://localhost:1337/3.0_from_2.0.patch"
-            sparkle:version="1.0.3"
+            sparkle:version="1.0.0"
             sparkle:deltaFrom="1.0.2"
             length="1235"
             type="application/octet-stream"
