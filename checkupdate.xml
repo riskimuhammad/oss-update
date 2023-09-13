@@ -4,9 +4,9 @@
     <title>Production</title>
     <item>
         <title>Version 1.1.4</title>
-        <description>Menu riwayat sudah di bagi dua menjadi RIWAYAT ABSENSI dan RIWAYAT WO. untuk list RIWAYAT WO bisa di lihat di menu riwayat WO. untuk total MTD Dashboard sedang dalam tahapan pengem bangan. terimakasih.
+        <description>Riwayat wo sudah ada result photo dan sudah bisa update photo di riwayat result photo WO, perubahan tampilan di menu material. terimakasih.
         </description>
-        <pubDate>Senin, 11 September 2023 10:20:13 +0000</pubDate>
+        <pubDate>Senin, 13 September 2023 10:20:13 +0000</pubDate>
         <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="1.1.4" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
@@ -33,7 +33,7 @@
     <!-- A release testing minimumSystemVersion -->
     <item>
         <title>Version 1.1.4</title>
-        <pubDate>Senin, 11 September 2023 10:20:13 +0000</pubDate>
+        <pubDate>Senin, 13 September 2023 10:20:13 +0000</pubDate>
         <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="1.1.4" sparkle:os="iOS" />
         <sparkle:minimumSystemVersion>1.1.4</sparkle:minimumSystemVersion>
     </item>
