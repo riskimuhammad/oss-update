@@ -4,7 +4,7 @@
     <title>Production</title>
     <item>
         <title>Version 1.1.5</title>
-        <description>Riwayat wo sudah ada result photo dan sudah bisa update photo di riwayat result photo WO, perubahan tampilan di menu material. terimakasih.
+        <description>Penambahan login menggunakan fingerprint dan dihalaman profile bisa ganti account untuk login pakai fingerprint jika ada kesalahan dalam pengimpuntan sebelumnya.
         </description>
         <pubDate>Senin, 13 September 2023 10:20:13 +0000</pubDate>
         <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="1.1.5" />
