@@ -3,28 +3,28 @@
   <channel>
     <title>Production</title>
     <item>
-        <title>Version 1.2.5</title>
-        <description>1.2.5 - Penambahan login menggunakan fingerprint dan dihalaman profile bisa ganti account untuk login pakai fingerprint jika ada kesalahan dalam pengimpuntan sebelumnya. 1.2.6-akan rilis, update form sakit , izin dan cuti. sudah sesuai dan bisa upload gallery.
+        <title>Version 1.2.6</title>
+        <description>update form sakit , izin dan cuti. sudah sesuai dan bisa upload gallery.
         </description>
         <pubDate>Senin, 13 September 2023 10:20:13 +0000</pubDate>
-        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="1.2.5" />
+        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="1.2.6" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
     <!-- The best chosen release -->
     <item>
-        <title>Version 1.2.5</title>
-        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="1.2.5" sparkle:os="android" />
+        <title>Version 1.2.6</title>
+        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="1.2.6" sparkle:os="android" />
         <sparkle:deltas>
             <enclosure url="http://localhost:1337/3.0_from_2.0.patch"
-            sparkle:version="1.2.5"
-            sparkle:deltaFrom="1.1.5"
+            sparkle:version="1.2.6"
+            sparkle:deltaFrom="1.2.5"
             length="1235"
             type="application/octet-stream"
             sparkle:edSignature="..." />
             
             <enclosure url="http://localhost:1337/3.0_from_1.0.patch"
-            sparkle:version="1.2.5"
-            sparkle:deltaFrom="1.1.5"
+            sparkle:version="1.2.6"
+            sparkle:deltaFrom="1.2.5"
             length="1485"
             type="application/octet-stream"
             sparkle:edSignature="..." />
@@ -32,16 +32,16 @@
     </item>
     <!-- A release testing minimumSystemVersion -->
     <item>
-        <title>Version 1.2.5</title>
+        <title>Version 1.2.6</title>
         <pubDate>Senin, 13 September 2023 10:20:13 +0000</pubDate>
-        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="1.2.5" sparkle:os="iOS" />
-        <sparkle:minimumSystemVersion>1.2.5</sparkle:minimumSystemVersion>
+        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="1.2.6" sparkle:os="iOS" />
+        <sparkle:minimumSystemVersion>1.2.6</sparkle:minimumSystemVersion>
     </item>
     <!-- A release testing maximumSystemVersion -->
     <item>
-        <title>Version 1.2.5</title>
-        <sparkle:version>1.2.5</sparkle:version>
-        <sparkle:maximumSystemVersion>1.2.5</sparkle:maximumSystemVersion>
+        <title>Version 1.2.6</title>
+        <sparkle:version>1.2.6</sparkle:version>
+        <sparkle:maximumSystemVersion>1.2.6</sparkle:maximumSystemVersion>
     </item>
   </channel>
 </rss>
