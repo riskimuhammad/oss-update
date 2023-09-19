@@ -4,7 +4,7 @@
     <title>Production</title>
     <item>
         <title>Version 1.2.5</title>
-        <description>Penambahan login menggunakan fingerprint dan dihalaman profile bisa ganti account untuk login pakai fingerprint jika ada kesalahan dalam pengimpuntan sebelumnya.
+        <description>1.2.5 - Penambahan login menggunakan fingerprint dan dihalaman profile bisa ganti account untuk login pakai fingerprint jika ada kesalahan dalam pengimpuntan sebelumnya. 1.2.6-akan rilis, update form sakit , izin dan cuti. sudah sesuai dan bisa upload gallery.
         </description>
         <pubDate>Senin, 13 September 2023 10:20:13 +0000</pubDate>
         <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="1.2.5" />
