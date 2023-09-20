@@ -4,7 +4,7 @@
     <title>Production</title>
     <item>
         <title>Version 1.2.6</title>
-        <description>update form sakit , izin dan cuti. sudah sesuai dan bisa upload gallery.
+        <description>Perbaikan BUG Absen in dan abesen out.
         </description>
         <pubDate>Senin, 19 September 2023 10:20:13 +0000</pubDate>
         <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="1.2.6" />
