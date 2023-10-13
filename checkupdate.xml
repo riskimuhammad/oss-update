@@ -4,7 +4,7 @@
     <title>Production</title>
     <item>
         <title>Version 1.3.10</title>
-        <description> (1.3.10 ->  perbaikan bug absensi jadwal lebih dari 1, pemindahaan e-slip kemenu lainnya, dan pemindahan menu riwayat ke menu lainnya)
+        <description> (1.3.11 ->  Perbaikan dan penambahan Perhitungan FAT To Home dan Search di project)
         </description>
         <pubDate>Senin, 19 September 2023 10:20:13 +0000</pubDate>
         <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="1.3.10" />
