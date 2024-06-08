@@ -3,28 +3,28 @@
   <channel>
     <title>Production</title>
     <item>
-        <title>Version 2.4.55</title>
-        <description> 2.4.55 -> Perbaikan lokasi tidak sesuai saat absen in and out. Mohon untuk di update di playstore
+        <title>Version 2.4.56</title>
+        <description> 2.4.56 -> Perbaikan lokasi tidak sesuai saat absen in and out. Mohon untuk di update di playstore
         </description>
         <pubDate>Senin, 19 September 2023 10:20:13 +0000</pubDate>
-        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="2.4.55" />
+        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="2.4.56" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
     <!-- The best chosen release -->
     <item>
-        <title>Version 2.4.55</title>
-        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="2.4.55" sparkle:os="android" />
+        <title>Version 2.4.56</title>
+        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="2.4.56" sparkle:os="android" />
         <sparkle:deltas>
             <enclosure url="http://localhost:1337/3.0_from_2.0.patch"
-            sparkle:version="2.4.55"
-            sparkle:deltaFrom="2.4.54"
+            sparkle:version="2.4.56"
+            sparkle:deltaFrom="2.4.55"
             length="1235"
             type="application/octet-stream"
             sparkle:edSignature="..." />
             
             <enclosure url="http://localhost:1337/3.0_from_1.0.patch"
-            sparkle:version="2.4.55"
-            sparkle:deltaFrom="2.4.54"
+            sparkle:version="2.4.56"
+            sparkle:deltaFrom="2.4.55"
             length="1485"
             type="application/octet-stream"
             sparkle:edSignature="..." />
@@ -32,16 +32,16 @@
     </item>
     <!-- A release testing minimumSystemVersion -->
     <item>
-        <title>Version 2.4.55</title>
+        <title>Version 2.4.56</title>
         <pubDate>Senin, 19 September 2023 10:20:13 +0000</pubDate>
-        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="2.4.55" sparkle:os="iOS" />
-        <sparkle:minimumSystemVersion>2.4.55</sparkle:minimumSystemVersion>
+        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="2.4.56" sparkle:os="iOS" />
+        <sparkle:minimumSystemVersion>2.4.56</sparkle:minimumSystemVersion>
     </item>
     <!-- A release testing maximumSystemVersion -->
     <item>
-        <title>Version 2.4.55</title>
-        <sparkle:version>2.4.55</sparkle:version>
-        <sparkle:maximumSystemVersion>2.4.55</sparkle:maximumSystemVersion>
+        <title>Version 2.4.56</title>
+        <sparkle:version>2.4.56</sparkle:version>
+        <sparkle:maximumSystemVersion>2.4.56</sparkle:maximumSystemVersion>
     </item>
   </channel>
 </rss>
